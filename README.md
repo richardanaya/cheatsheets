@@ -1,6 +1,6 @@
 # postgresql
 
-```
+```sql
 varchar
 bool
 int
